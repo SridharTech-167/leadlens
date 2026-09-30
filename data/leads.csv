@@ -1,0 +1,71 @@
+lead_id,name,company,source,status,deal_value,last_contact_days_ago,engagement_score,notes
+L001,Karthik Sharma,Quantum Robotics,Webinar Signup,Contacted,25000,23,23,"Initial contact only, no further engagement recorded since form submission."
+L002,Manoj Reddy,Meridian Travel,Paid Ad Click,New,15000,2,37,"Referred by an existing customer, mentioned they need a decision before next board meeting."
+L003,Anjali Krishnan,Verdant Labs,Webinar Signup,Negotiation,60000,7,67,"Requested case studies from similar industry, said they're comparing us to one competitor."
+L004,Meera Mehta,Verdant Labs,Referral,Proposal Sent,40000,8,29,"Referred by an existing customer, mentioned they need a decision before next board meeting."
+L005,Kavya Reddy,Orbit Systems,Paid Ad Click,New,40000,27,54,"Requested case studies from similar industry, said they're comparing us to one competitor."
+L006,Meera Mehta,Blue Ridge Tech,Partner Referral,Negotiation,15000,29,58,"Replied to outreach email within an hour, said budget is approved for this quarter."
+L007,Manoj Gupta,Frostline Apparel,Cold Email Reply,Negotiation,25000,22,18,Requested a demo after downloading our pricing guide. Asked specifically about API integration limits.
+L008,Vikram Mehta,Amber Logistics,LinkedIn Outreach,Contacted,200000,3,58,Filled out contact form but hasn't responded to two follow-up emails yet.
+L009,Pooja Joshi,Harbor Health,Referral,Qualified,40000,6,95,Filled out contact form but hasn't responded to two follow-up emails yet.
+L010,Priya Krishnan,Skyline Retail,Webinar Signup,Contacted,60000,12,44,Asked detailed technical questions about data security and compliance.
+L011,Manoj Nair,Solstice Media,Website Demo Request,Contacted,200000,1,50,Clicked pricing page three times this week according to site analytics.
+L012,Meera Reddy,Coral Fintech,Cold Email Reply,Contacted,120000,15,60,Asked detailed technical questions about data security and compliance.
+L013,Pooja Iyer,Quantum Robotics,Referral,Contacted,120000,17,78,Filled out contact form but hasn't responded to two follow-up emails yet.
+L014,Deepa Rao,Meridian Travel,Paid Ad Click,Qualified,25000,4,75,"Asked for a custom quote for 200+ seats, said current contract with competitor ends next month."
+L015,Priya Mehta,Blue Ridge Tech,LinkedIn Outreach,Contacted,120000,5,64,"Requested case studies from similar industry, said they're comparing us to one competitor."
+L016,Priya Rao,Granite Manufacturing,Partner Referral,Negotiation,40000,17,11,"Initial contact only, no further engagement recorded since form submission."
+L017,Karthik Joshi,Ironclad Security,Trade Show,Qualified,15000,9,65,"Attended our webinar and stayed for the full Q&A, asked about enterprise plan."
+L018,Pooja Sharma,Quantum Robotics,Referral,Negotiation,15000,27,90,Filled out contact form but hasn't responded to two follow-up emails yet.
+L019,Anjali Krishnan,Coral Fintech,Referral,Qualified,200000,5,79,"Fast-growing startup, mentioned urgency due to upcoming funding round deadline."
+L020,Anjali Sharma,Frostline Apparel,Cold Email Reply,Proposal Sent,15000,3,56,Asked detailed technical questions about data security and compliance.
+L021,Aditya Nair,Blue Ridge Tech,Webinar Signup,Negotiation,15000,2,72,"Long-time newsletter subscriber, first time showing direct purchase intent."
+L022,Priya Mehta,Ironclad Security,Referral,Contacted,120000,15,80,"Attended our webinar and stayed for the full Q&A, asked about enterprise plan."
+L023,Meera Pillai,Frostline Apparel,Paid Ad Click,Contacted,80000,24,35,"Had a discovery call, raised concerns about implementation timeline."
+L024,Aditya Rao,Harbor Health,Partner Referral,Negotiation,60000,3,41,"Referred by an existing customer, mentioned they need a decision before next board meeting."
+L025,Priya Menon,Verdant Labs,Webinar Signup,Negotiation,25000,0,19,"Had a discovery call, raised concerns about implementation timeline."
+L026,Rohan Nair,Orbit Systems,Website Demo Request,Qualified,15000,16,40,Filled out contact form but hasn't responded to two follow-up emails yet.
+L027,Suresh Nair,Ironclad Security,Referral,Negotiation,80000,15,41,"Fast-growing startup, mentioned urgency due to upcoming funding round deadline."
+L028,Suresh Mehta,Willow Education,Webinar Signup,New,15000,21,65,"Met at trade show booth, exchanged cards, said team is evaluating three vendors."
+L029,Rahul Rao,Delta Energy,Website Demo Request,New,15000,12,53,"Fast-growing startup, mentioned urgency due to upcoming funding round deadline."
+L030,Karthik Nair,Coral Fintech,Webinar Signup,Negotiation,60000,4,64,"Attended our webinar and stayed for the full Q&A, asked about enterprise plan."
+L031,Meera Verma,Pinewood Foods,LinkedIn Outreach,Proposal Sent,200000,27,80,"Replied to outreach email within an hour, said budget is approved for this quarter."
+L032,Rohan Joshi,Ironclad Security,Website Demo Request,New,200000,27,40,"Attended our webinar and stayed for the full Q&A, asked about enterprise plan."
+L033,Rahul Verma,Lumen Marketing,Webinar Signup,Proposal Sent,15000,5,58,Requested a demo after downloading our pricing guide. Asked specifically about API integration limits.
+L034,Neha Gupta,Delta Energy,Trade Show,Proposal Sent,120000,30,81,"Initial contact only, no further engagement recorded since form submission."
+L035,Suresh Iyer,Coral Fintech,Trade Show,Contacted,15000,18,79,Requested a demo after downloading our pricing guide. Asked specifically about API integration limits.
+L036,Kavya Sharma,Blue Ridge Tech,Partner Referral,Negotiation,200000,16,30,Requested a demo after downloading our pricing guide. Asked specifically about API integration limits.
+L037,Anjali Reddy,Skyline Retail,LinkedIn Outreach,Negotiation,15000,21,40,Clicked pricing page three times this week according to site analytics.
+L038,Karthik Krishnan,Pinewood Foods,Website Demo Request,Negotiation,15000,13,94,"Requested case studies from similar industry, said they're comparing us to one competitor."
+L039,Deepa Pillai,Solstice Media,Trade Show,Contacted,120000,22,50,"Referred by an existing customer, mentioned they need a decision before next board meeting."
+L040,Meera Rao,Terra Analytics,Trade Show,Proposal Sent,40000,29,19,Requested a demo after downloading our pricing guide. Asked specifically about API integration limits.
+L041,Pooja Krishnan,Meridian Travel,LinkedIn Outreach,New,80000,6,74,Filled out contact form but hasn't responded to two follow-up emails yet.
+L042,Sneha Menon,Orbit Systems,Webinar Signup,Qualified,40000,5,66,"Long-time newsletter subscriber, first time showing direct purchase intent."
+L043,Manoj Kumar,Amber Logistics,Website Demo Request,Negotiation,40000,29,94,"Replied to outreach email within an hour, said budget is approved for this quarter."
+L044,Sneha Gupta,Nimbus Cloud,LinkedIn Outreach,Negotiation,25000,8,46,"Requested case studies from similar industry, said they're comparing us to one competitor."
+L045,Divya Kumar,Solstice Media,Webinar Signup,Qualified,80000,15,42,Asked detailed technical questions about data security and compliance.
+L046,Rohan Reddy,Willow Education,Trade Show,New,15000,10,26,"Initial contact only, no further engagement recorded since form submission."
+L047,Meera Iyer,Delta Energy,Paid Ad Click,Negotiation,15000,3,19,Asked detailed technical questions about data security and compliance.
+L048,Sneha Pillai,Blue Ridge Tech,Cold Email Reply,Negotiation,80000,4,65,"Attended our webinar and stayed for the full Q&A, asked about enterprise plan."
+L049,Rohan Gupta,Harbor Health,Website Demo Request,Qualified,25000,21,41,"Initial contact only, no further engagement recorded since form submission."
+L050,Karthik Menon,Ironclad Security,Paid Ad Click,Negotiation,120000,4,40,"Long-time newsletter subscriber, first time showing direct purchase intent."
+L051,Arjun Mehta,Skyline Retail,Paid Ad Click,New,25000,23,52,"Fast-growing startup, mentioned urgency due to upcoming funding round deadline."
+L052,Rahul Mehta,Pinewood Foods,Trade Show,Contacted,200000,22,23,Clicked pricing page three times this week according to site analytics.
+L053,Rohan Das,Lumen Marketing,Webinar Signup,Contacted,200000,29,68,"Met at trade show booth, exchanged cards, said team is evaluating three vendors."
+L054,Aditya Das,Pinewood Foods,Webinar Signup,New,120000,6,61,"Met at trade show booth, exchanged cards, said team is evaluating three vendors."
+L055,Meera Das,Orbit Systems,Trade Show,Qualified,120000,16,61,"Initial contact only, no further engagement recorded since form submission."
+L056,Manoj Menon,Verdant Labs,LinkedIn Outreach,Qualified,25000,18,43,Requested a demo after downloading our pricing guide. Asked specifically about API integration limits.
+L057,Karthik Krishnan,Willow Education,Cold Email Reply,Qualified,60000,19,75,"Replied to outreach email within an hour, said budget is approved for this quarter."
+L058,Neha Krishnan,Coral Fintech,Trade Show,New,120000,13,10,"Opened last two emails but no reply yet, engagement dropping over past 10 days."
+L059,Manoj Joshi,Coral Fintech,Cold Email Reply,Proposal Sent,15000,30,95,Asked detailed technical questions about data security and compliance.
+L060,Kavya Krishnan,Solstice Media,LinkedIn Outreach,Qualified,80000,9,95,Clicked pricing page three times this week according to site analytics.
+L061,Kavya Rao,Amber Logistics,Referral,Contacted,60000,21,58,"Initial contact only, no further engagement recorded since form submission."
+L062,Arjun Krishnan,Meridian Travel,Trade Show,Proposal Sent,80000,26,10,Filled out contact form but hasn't responded to two follow-up emails yet.
+L063,Aditya Nair,Willow Education,Cold Email Reply,Proposal Sent,60000,14,37,"Opened last two emails but no reply yet, engagement dropping over past 10 days."
+L064,Suresh Mehta,Skyline Retail,LinkedIn Outreach,Qualified,80000,21,91,"Requested case studies from similar industry, said they're comparing us to one competitor."
+L065,Kavya Reddy,Pinewood Foods,Trade Show,Contacted,200000,6,28,Requested a demo after downloading our pricing guide. Asked specifically about API integration limits.
+L066,Rohan Nair,Lumen Marketing,LinkedIn Outreach,Proposal Sent,60000,28,90,"Requested case studies from similar industry, said they're comparing us to one competitor."
+L067,Divya Kumar,Granite Manufacturing,Partner Referral,Proposal Sent,25000,4,93,"Had a discovery call, raised concerns about implementation timeline."
+L068,Ananya Mehta,Nimbus Cloud,Paid Ad Click,Contacted,25000,25,76,"Asked for a custom quote for 200+ seats, said current contract with competitor ends next month."
+L069,Rohan Pillai,Pinewood Foods,LinkedIn Outreach,Proposal Sent,25000,25,69,"Initial contact only, no further engagement recorded since form submission."
+L070,Anjali Pillai,Frostline Apparel,Cold Email Reply,Proposal Sent,80000,26,74,Clicked pricing page three times this week according to site analytics.
