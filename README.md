@@ -73,4 +73,4 @@ leadlens/
 
 ## Team
 
-Built by [Your Name] and Thirumalaivasan N for AI Build Challenge 2026.
+Built by Sridhar V and Thirumalaivasan N for AI Build Challenge 2026.
